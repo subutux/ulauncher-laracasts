@@ -10,7 +10,7 @@ Once you install this extension, just start Ulauncher and type: `lc`. That will 
 
 From there you can type your search query like `Resourc`:
 
-![image-20210324143400975](/home/svancampenhout/Documents/Projects/prive/com.github.subutux.ulauncher-laracasts/screenshots/resource.png)
+![image-20210324143400975](./screenshots/resource.png)
 
 
 
