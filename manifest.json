@@ -1,0 +1,19 @@
+{
+    "required_api_version": "^2.0.0",
+    "name": "Ulauncher Laracasts Extension",
+    "description": "Ulauncher extension for searching in laracasts.",
+    "developer_name": "Stijn Van Campenhout",
+    "icon": "icons/laracasts.svg",
+    "options": {
+      "query_debounce": 0.05
+    },
+    "preferences": [
+      {
+        "id": "l_kw",
+        "type": "keyword",
+        "name": "Laracasts Search",
+        "description": "Type in your query and press Enter...",
+        "default_value": "lc"
+      }
+    ]
+  }
